@@ -10,7 +10,7 @@ cmd:addTime()
 cmd:text()
 cmd:option( '--input', 'none', 'Input image' )
 cmd:option( '--mask', 'none', 'Mask image')
-cmd:option( '--maxdim', 512, 'Long edge dimension of an input image')
+cmd:option( '--maxdim', 512, 'Max size of input image')
 cmd:option( '--gpu', true, 'Use GPU' )
 
 local opt = cmd:parse(arg or {})
