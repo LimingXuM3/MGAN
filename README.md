@@ -16,7 +16,7 @@
   
   1. Download pre-trained models from [BaiduNetdisk](https://pan.baidu.com/s/1ilBXZUZlACeChzE9w-zRxQ). password: 48mk.
 
-  2. Download test images and masks samples from [BaiduNetdisk](https://pan.baidu.com/s/1ilBXZUZlACeChzE9w-zRxQ), then put the pre-trained model, test images and masks into same dir
+  2. Download test images and mask samples from [BaiduNetdisk](https://pan.baidu.com/s/1ilBXZUZlACeChzE9w-zRxQ), then put the pre-trained model, test images and masks into same dir
 
   3. Inpaint the damaged image with designated mask:
      
