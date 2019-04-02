@@ -31,5 +31,10 @@
 
 - Use GPU for the high speed computation.
 
+# Reference
+[Globally and Locally Consistent Image Completion](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+[Context Encoders: Feature Learning by Inpainting](https://github.com/pathak22/context-encoder)
+[High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
+
 
 
