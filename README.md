@@ -2,7 +2,7 @@
 
   A test implementation for the paper "Multi-Granularity Generative Adversarial Nets with Reconstructive Sampling for Image Inpainting" (Under reviewing)
 
-#Environment:
+# Environment
 
   [Torch7](http://torch.ch/docs/getting-started.html)
 
