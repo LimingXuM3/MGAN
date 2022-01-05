@@ -1,6 +1,6 @@
 # Overview
 
-  A test implementation for the paper "Multi-Granularity Generative Adversarial Nets with Reconstructive Sampling for Image Inpainting" (Under reviewing)
+  A test implementation for the paper "Multi-Granularity Generative Adversarial Nets with Reconstructive Sampling for Image Inpainting" 
 
 # Environment
 
@@ -37,3 +37,22 @@
 [Context Encoders: Feature Learning by Inpainting](https://github.com/pathak22/context-encoder)
 
 [High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
+
+# Citation
+@article{2020Multi,
+
+  title={Multi-Granularity Generative Adversarial Nets with Reconstructive Sampling for Image Inpainting},
+  
+  author={ Xu, Liming and Zeng, Xianhua and Li, Weisheng and Huang, Zhiwei},
+  
+  journal={Neurocomputing},
+  
+  volume={402},
+  
+  number={18},
+  
+  pages = {220-234},
+  
+  year={2020},
+  
+}
